@@ -1,0 +1,5 @@
+{
+  "name": "Lince - Particionamento Inteligente",
+  "description": "Uma ferramenta avançada para planejamento de partições Linux, oferecendo sugestões inteligentes baseadas em hardware, RAM e perfil de usuário.",
+  "requestFramePermissions": []
+}
