@@ -52,4 +52,19 @@ Não precisa instalar nada. O projeto está disponível em:
 Este projeto está sob a licença **MIT** — veja o arquivo [LICENSE](LICENSE) para detalhes.
 
 ---
+## ⚠️ Aviso de Responsabilidade (Disclaimer)
+
+O **LINCE PROJECT** é uma ferramenta de auxílio visual e pedagógico para planejamento de partições. Ao utilizar este software, você concorda que:
+
+1. **Risco do Utilizador**: O particionamento de discos e a instalação de sistemas operativos são procedimentos que envolvem risco real de perda de dados.
+2. **Uso de Comandos**: Os scripts shell e planos gerados são sugestões baseadas nos parâmetros inseridos. Verifique sempre os nomes dos dispositivos (ex: `/dev/sda`, `/dev/nvme0n1`) antes de executar qualquer comando no terminal.
+3. **Sem Garantias**: O software é fornecido "como está", sem garantias de qualquer tipo. O desenvolvedor não se responsabiliza por:
+    * Formatações acidentais de partições.
+    * Perda de arquivos pessoais ou documentos.
+    * Danos físicos ao hardware ou falhas de inicialização (boot).
+4. **Backup**: É **altamente recomendável** que você possua um backup atualizado de seus dados importantes antes de realizar qualquer alteração em seus discos rígidos.
+
+> **"Com grandes poderes vêm grandes responsabilidades."** — Use a ferramenta com cautela e conhecimento técnico.
+
+---
 Desenvolvido com ☕ e 🐧 por **Lu15-F3**.
