@@ -12,7 +12,7 @@ O **LYNX** é uma ferramenta interativa desenvolvida para simplificar o particio
 * **Relatórios Profissionais**: Exportação em PDF e TXT com disclaimer legal e detalhes técnicos de alocação.
 
 ## 🌐 Acesse Agora
-👉 **[https://lu15-f3.github.io/lynx-app/](https://lu15-f3.github.io/lynx-app/)**
+👉 **[https://lu15-f3.github.io/lynx-project/](https://lu15-f3.github.io/lynx-project/)**
 
 ## 🛠️ Tecnologias
 * **React + TypeScript**: Interface reativa e robusta.
