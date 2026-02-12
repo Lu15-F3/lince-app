@@ -74,7 +74,7 @@ export const ExportSection: React.FC<ExportSectionProps> = ({ plan, disks, distr
     doc.text(disclaimer, 20, finalY + 22);
 
     doc.setTextColor(0, 102, 204);
-    doc.text("Repository: github.com/Lu15-F3/lynx-project", 20, finalY + 40);
+    doc.text("Repository: https://github.com/Lu15-F3/lynx-project", 20, finalY + 40);
     doc.save(`lynx-plan-${distro.toLowerCase()}.pdf`);
   };
 
@@ -87,7 +87,7 @@ export const ExportSection: React.FC<ExportSectionProps> = ({ plan, disks, distr
     });
     content += `\n--------------------------------------------------\n`;
     content += `TERMOS: ${t.footer.disclaimer_text}\n\n`;
-    content += `REPO: github.com/Lu15-F3/lynx-project\n`;
+    content += `REPO: https://github.com/Lu15-F3/lynx-project\n`;
 
     const blob = new Blob(["\ufeff", content], { type: 'text/plain;charset=utf-8' });
     const link = document.createElement('a');
