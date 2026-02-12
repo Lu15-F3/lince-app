@@ -7,7 +7,7 @@ export default defineConfig(({ mode }) => {
     return {
       // Importante: Altere para o nome do seu repositório no GitHub
       // Se o link for https://github.com/Lu15-F3/lince-v3, use '/lince-v3/'
-      base: '/lince-app/', 
+      base: '/lynx-project/', 
       
       server: {
         port: 3000,
